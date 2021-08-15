@@ -4,7 +4,7 @@
   "description": "Social Network for Developer",
   "main": "index.js",
   "scripts": {
-    "start": "nose server",
+    "start": "node server",
     "server": "nodemon server"
   },
   "author": "Joyjit Pal",
